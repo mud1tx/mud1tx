@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/muditagarwalna" target="blank"><img src="https://img.shields.io/twitter/follow/muditagarwalna?logo=twitter&style=for-the-badge" alt="muditagarwalna" /></a> </p>
 
-- 🔭 I’m currently working on **Android Project**
+- 🔭 I’m currently working on **Blockchain Project**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
