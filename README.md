@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/muditagarwalna" target="blank"><img src="https://img.shields.io/twitter/follow/muditagarwalna?logo=twitter&style=for-the-badge" alt="muditagarwalna" /></a> </p>
 
-- 🔭 I’m currently working on **Next.js/TypeScript Project**
+- 🔭 I’m currently working on **learning Docker and AWS**
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Devops or Cloud computing**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **muditagarwalna@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am always eager to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
