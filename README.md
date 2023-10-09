@@ -1,11 +1,11 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:828/1*OxT7UjIwhklKE8d8SFyo7g.gif](https://res.cloudinary.com/dbama3nub/image/upload/v1696826560/PESQn8A_zrqvoo.png))](https://github.com/mud1tx)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/mud1tx)
 <h1 align="center">Hi 👋, I'm Mudit Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mud1tx&label=Profile%20views&color=0e75b6&style=flat" alt="mud1tx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muditagarwalna" target="blank"><img src="[https://img.shields.io/twitter/follow/muditagarwalna?logo=twitter&style=for-the-badge](https://github.com/sahilsuman933/sahilsuman933/blob/d96f35bbe48104005190ee7103e7a7ee0d90cc7d/PESQn8A.png)" alt="muditagarwalna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muditagarwalna" target="blank"><img src="https://img.shields.io/twitter/follow/muditagarwalna?logo=twitter&style=for-the-badge" alt="muditagarwalna" /></a> </p>
 
 - 🔭 I’m currently working on **learning Docker and AWS**
 
