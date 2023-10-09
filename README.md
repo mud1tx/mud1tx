@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/mud1tx)
+[![MasterHead]([https://miro.medium.com/v2/resize:fit:828/1*OxT7UjIwhklKE8d8SFyo7g.gif](https://res.cloudinary.com/dbama3nub/image/upload/v1696826560/PESQn8A_zrqvoo.png))](https://github.com/mud1tx)
 <h1 align="center">Hi 👋, I'm Mudit Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif"/>
