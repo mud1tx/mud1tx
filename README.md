@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mud1tx&label=Profile%20views&color=0e75b6&style=flat" alt="mud1tx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muditagarwalna" target="blank"><img src="https://img.shields.io/twitter/follow/muditagarwalna?logo=twitter&style=for-the-badge" alt="muditagarwalna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muditagarwalna" target="blank"><img src="[https://img.shields.io/twitter/follow/muditagarwalna?logo=twitter&style=for-the-badge](https://github.com/sahilsuman933/sahilsuman933/blob/d96f35bbe48104005190ee7103e7a7ee0d90cc7d/PESQn8A.png)" alt="muditagarwalna" /></a> </p>
 
 - 🔭 I’m currently working on **learning Docker and AWS**
 
